@@ -1,18 +1,5 @@
-body {
-	background-image: darkblue;
-}
+body { background-image: darkblue; }
 
-.container {
-	padding: 30px;
-	text-align: center;
-	margin: 0 auto;
-	font-size: 25px;
-}
+.container { padding: 30px; text-align: center; margin: 0 auto; font-size: 25px; }
 
-button {
-	font-size: 25px;
-	padding: 10px;
-	border-radius: 10px;
-	margin-bottom: 30px;
-	color: green;
-}
+button { font-size: 25px; padding: 10px; border-radius: 10px; margin-bottom: 30px; color: green; }
